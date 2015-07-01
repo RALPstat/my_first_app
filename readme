@@ -1,1 +1,10 @@
-Esta es mi primera aplicación de Rails.
+Mi primera aplicación
+
+El objetivo de este challenge es crear nuestra primera aplicación de Ruby on Rails y crear un controlador, una acción y una vista.
+
+Instrucciones
+
+1. Crea una aplicación llamada my-first-app.
+2. Usando el generador de Rails, crea un controlador llamado welcome con una única acción index y su respectiva vista.
+3. La ruta principal (root) debe apuntar a la acción index del controlador welcome (al ingresar a http://localhost:3000/ debe mostrar la vista que creaste).
+4. Publica tu aplicación en Github.
